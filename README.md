@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Oject Oriented Programming(OOP) Concepts**
 
-- 📫 How to reach me **ageepafernando@gmail.com **
+- 📫 How to reach me ageepafernando@gmail.com
   
 </td>
 <td width="50%" align="center">
