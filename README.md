@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Facial Recognition Based Attendance Management System](https://github.com/Ageepa/Facial-Recognition-Based-Attendance-Management-System.git)
 
-- 🌱 I’m currently learning **FullStack Engineering, ReactJS, MongoDB, Tailwind CSS, ShadCN**
+- 🌱 I’m currently learning **FullStack Engineering, ReactJS, MongoDB, Tailwind CSS, Shadcn/ui**
 
 - 💬 Ask me about **Object Oriented Programming(OOP) Concepts**
 
