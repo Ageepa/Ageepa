@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Ageepa Fernando</h1>
 <h3 align="center">Passionate IT Undergraduate | Software Develoment / Networking / ML Enthusiast</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ageepa&label=Profile%20views&color=0e75b6&style=flat" alt="ageepa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ageepa&label=Profile%20views&color=0e75b6&style=flat" alt="ageepa" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -39,13 +39,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ageepa&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ageepa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ageepa&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ageepa&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ageepa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ageepa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
