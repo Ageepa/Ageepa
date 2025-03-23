@@ -9,10 +9,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 🔭 I’m currently working on [Facial Recognition Based Attendance Management System](https://github.com/Ageepa/Facial-Recognition-Based-Attendance-Management-System.git)
-  
-- 🌱 I’m currently learning **FullStack Engineering, ReactJS, Tailwind CSS, Shadcn/ui**
+    
+- 🌱 I’m currently learning **FullStack Engineering, ReactJS + Vite, NextJS, Tailwind CSS, Shadcn/ui**
 
 - 💬 Ask me about **Java, Oject Oriented Programming(OOP) Concepts**
 
